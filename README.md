@@ -8,8 +8,10 @@ Plateforme intelligente de colocation et de stages pour étudiants béninois
 
 Prototype interactif UI/UX disponible ici :
  https://www.figma.com/proto/h7irwuWn6b1Cam5lNxNItN/Stulink?node-id=15-1969&t=BjySEu3MlmQfvuDu-1
-
 Ce lien te permet de visualiser le prototype final et de tester l’expérience utilisateur complète.
+
+Lien permtant de lire directement notre cahier de charge conformément au template envoyer
+https://drive.google.com/file/d/1zcR4svePuw7Wtlb_1CX7SgA4NjBGVYhY/view?usp=sharing
 
  Description du projet
 
