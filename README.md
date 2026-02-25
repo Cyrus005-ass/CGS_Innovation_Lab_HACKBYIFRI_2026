@@ -7,7 +7,7 @@ jE VOUS PRESENTE LE CAHIER DE CHARGE DE NOTRE PROJET NOMME StuLink
 Plateforme intelligente de colocation et de stages pour étudiants béninois
 
 Prototype interactif UI/UX disponible ici :
- https://www.figma.com/proto/h7irwuWn6b1Cam5lNxNItN/Stulink?node-id=15-1969&t=BjySEu3MlmQfvuDu-1
+https://www.figma.com/proto/h7irwuWn6b1Cam5lNxNItN/Stulink?node-id=15-2373&t=6kSC9mBHnron6E6O-1
 Ce lien te permet de visualiser le prototype final et de tester l’expérience utilisateur complète.
 
 Lien permtant de lire directement notre cahier de charge conformément au template envoyer
