@@ -13,6 +13,9 @@ Ce lien te permet de visualiser le prototype final et de tester l’expérience 
 Lien permtant de lire directement notre cahier de charge conformément au template envoyer
 https://drive.google.com/file/d/1zcR4svePuw7Wtlb_1CX7SgA4NjBGVYhY/view?usp=sharing
 
+Voici le lien vidéo qui présente notre prototype figma
+https://drive.google.com/file/d/17gjQIydu5ZVCaqsZKOng7JRs-mWv3Vh5/view?usp=sharing
+
  Description du projet
 
 StuLink Bénin est une application web mobile-first conçue pour aider les étudiants béninois à :
